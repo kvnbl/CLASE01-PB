@@ -47,3 +47,4 @@ mago2 = Mago("mago2",40,15,20)
 
 
 mago1.atacar(mago2)
+mago2.curar(mago2)
